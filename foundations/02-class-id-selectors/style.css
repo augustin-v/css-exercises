@@ -1,0 +1,19 @@
+.num {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.num.three {
+    font-size: 24px;
+}
+
+#four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
